@@ -12,9 +12,9 @@ only text and json support if no path
 /full  
 returns all info about ip
 
-/raw
+/raw  
 returns raw request info, parameters dont work here
 
 ### parameters
-?format={text|json|xml|html|md}
+?format={text|json|xml|html|md}  
 just different output formats, each one all returns the same data though
